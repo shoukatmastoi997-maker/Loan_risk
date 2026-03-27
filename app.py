@@ -71,7 +71,7 @@ if st.button("Score Applicant"):
     label = "HIGH_RISK" if risk >= 0.5 else "LOW_RISK"
 
     st.metric("Default Risk Probability", f"{risk:.4f}")
-    st.success(f"Risk Label: {label}")
+    st.success(f"Risk Label at: {label}")
 
-st.subheader("How to run")
+st.subheader("How to run this code")
 st.code("streamlit run app.py", language="bash")
