@@ -1,6 +1,6 @@
 # Credit Risk Scoring with Explainable ML
 
-A fast, job-ready finance ML project you can finish in one week. It predicts loan default risk and explains the predictions.
+A fast, job-ready finance ML project you can finish in one week. It predicts loan default risk and explains the predictions based on existing.
 
 ## What this project shows
 - End-to-end ML pipeline
